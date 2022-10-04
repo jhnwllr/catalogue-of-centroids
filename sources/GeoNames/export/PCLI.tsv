@@ -1,0 +1,194 @@
+iso3	iso2	gadm1	gbif_name	type	area_sqkm	decimal_longitude	decimal_latitude	source_locality_name	source_reference	source
+AND	AD		Andorra	PCLI	452.24793683157947	1.58333	42.55	Principality of Andorra	https://www.geonames.org/	GeoNames
+ARE	AE		United Arab Emirates	PCLI	71084.63633494375	54.5	23.75	United Arab Emirates	https://www.geonames.org/	GeoNames
+AFG	AF		Afghanistan	PCLI	642181.6163942092	66	33	Islamic Republic of Afghanistan	https://www.geonames.org/	GeoNames
+ATG	AG		Antigua and Barbuda	PCLI	451.48018877323005	-61.8	17.05	Antigua and Barbuda	https://www.geonames.org/	GeoNames
+ALB	AL		Albania	PCLI	28335.84516398934	20	41	Republic of Albania	https://www.geonames.org/	GeoNames
+ARM	AM		Armenia	PCLI	29588.31031852631	45	40.25	Republic of Armenia	https://www.geonames.org/	GeoNames
+AGO	AO		Angola	PCLI	1244654.313546171	18.5	-12.5	Republic of Angola	https://www.geonames.org/	GeoNames
+ARG	AR		Argentina	PCLI	2784305.9189470923	-64	-34	Argentine Republic	https://www.geonames.org/	GeoNames
+AUT	AT		Austria	PCLI	83993.196879589	13.33333	47.33333	Republic of Austria	https://www.geonames.org/	GeoNames
+AUS	AU		Australia	PCLI	7691175.090399871	135	-25	Commonwealth of Australia	https://www.geonames.org/	GeoNames
+AZE	AZ		Azerbaijan	PCLI	86249.80023303672	47.5	40.5	Republic of Azerbaijan	https://www.geonames.org/	GeoNames
+BIH	BA		Bosnia and Herzegovina	PCLI	51826.537863392885	17.83333	44.25	Bosnia and Herzegovina	https://www.geonames.org/	GeoNames
+BRB	BB		Barbados	PCLI	444.2213241323988	-59.55165	13.16453	Barbados	https://www.geonames.org/	GeoNames
+BGD	BD		Bangladesh	PCLI	136903.67805500666	90	24	Bangladesh	https://www.geonames.org/	GeoNames
+BEL	BE		Belgium	PCLI	30669.830511667642	4.5	50.75	Kingdom of Belgium	https://www.geonames.org/	GeoNames
+BFA	BF		Burkina Faso	PCLI	272769.396656721	-1.66667	12.5	Burkina Faso	https://www.geonames.org/	GeoNames
+BGR	BG		Bulgaria	PCLI	112760.6938197593	25.25	42.66667	Republic of Bulgaria	https://www.geonames.org/	GeoNames
+BHR	BH		Bahrain	PCLI	584.9397795935516	50.55	26.03333	Kingdom of Bahrain	https://www.geonames.org/	GeoNames
+BDI	BI		Burundi	PCLI	27041.26629610865	30	-3.5	Republic of Burundi	https://www.geonames.org/	GeoNames
+BEN	BJ		Benin	PCLI	116113.30895446315	2.25	9.5	Republic of Benin	https://www.geonames.org/	GeoNames
+BRN	BN		Brunei	PCLI	5716.69325911628	114.66667	4.5	Brunei Darussalam	https://www.geonames.org/	GeoNames
+BOL	BO		Bolivia	PCLI	1086810.6457342159	-65	-17	Plurinational State of Bolivia	https://www.geonames.org/	GeoNames
+BRA	BR		Brazil	PCLI	8472669.678377096	-55	-10	Federative Republic of Brazil	https://www.geonames.org/	GeoNames
+BHS	BS		Bahamas	PCLI	12592.697860504082	-77.37122	25.04082	Commonwealth of The Bahamas	https://www.geonames.org/	GeoNames
+BTN	BT		Bhutan	PCLI	40365.36421684413	90.5	27.5	Kingdom of Bhutan	https://www.geonames.org/	GeoNames
+BWA	BW		Botswana	PCLI	579029.2005460369	24	-22	Republic of Botswana	https://www.geonames.org/	GeoNames
+BLR	BY		Belarus	PCLI	207499.13339444195	28	53	Republic of Belarus	https://www.geonames.org/	GeoNames
+BLZ	BZ		Belize	PCLI	22299.42219573088	-88.75	17.25	Belize	https://www.geonames.org/	GeoNames
+CAN	CA		Canada	PCLI	9945527.764985083	-113.64258	60.10867	Canada	https://www.geonames.org/	GeoNames
+COD	CD		Democratic Republic of the Congo	PCLI	2325240.4236477143	23.5	-2.5	Democratic Republic of the Congo	https://www.geonames.org/	GeoNames
+CAF	CF		Central African Republic	PCLI	617984.2399580368	21	7	Central African Republic	https://www.geonames.org/	GeoNames
+COG	CG		Republic of the Congo	PCLI	344888.6767348834	15.5	-1	Republic of the Congo	https://www.geonames.org/	GeoNames
+CHE	CH		Switzerland	PCLI	41435.79877039148	8.01427	47.00016	Switzerland	https://www.geonames.org/	GeoNames
+CHE	CH		Switzerland	PCLI	41435.79877039148	9.53333	47.16667	Principality of Liechtenstein	https://www.geonames.org/	GeoNames
+CIV	CI		Ivory Coast	PCLI	320677.15691769694	-5.5	8	Republic of CÃ´te dâ€™Ivoire	https://www.geonames.org/	GeoNames
+CHL	CL		Chile	PCLI	736592.7499003441	-71	-30	Republic of Chile	https://www.geonames.org/	GeoNames
+CMR	CM		Cameroon	PCLI	464319.27834895253	12.5	6	Republic of Cameroon	https://www.geonames.org/	GeoNames
+CHN	CN		China	PCLI	9374591.216965673	105	35	Peopleâ€™s Republic of China	https://www.geonames.org/	GeoNames
+COL	CO		Colombia	PCLI	1135117.8781117965	-73.25	4	Republic of Colombia	https://www.geonames.org/	GeoNames
+CRI	CR		Costa Rica	PCLI	51144.33533147565	-84	10	Republic of Costa Rica	https://www.geonames.org/	GeoNames
+CUB	CU		Cuba	PCLI	109929.18207741623	-79.5	22	Republic of Cuba	https://www.geonames.org/	GeoNames
+CPV	CV		Cape Verde	PCLI	3883.1427075028528	-24	16	Republic of Cabo Verde	https://www.geonames.org/	GeoNames
+CYP	CY		Cyprus	PCLI	5395.020997606832	33	35	Republic of Cyprus	https://www.geonames.org/	GeoNames
+CZE	CZ		Czech Republic	PCLI	78758.85950496417	15	49.75	Czechia	https://www.geonames.org/	GeoNames
+DEU	DE		Germany	PCLI	357673.8176546789	10.5	51.5	Federal Republic of Germany	https://www.geonames.org/	GeoNames
+DJI	DJ		Djibouti	PCLI	21847.61409875067	42.5	11.83333	Republic of Djibouti	https://www.geonames.org/	GeoNames
+DNK	DK		Denmark	PCLI	42696.43397568578	10	56	Kingdom of Denmark	https://www.geonames.org/	GeoNames
+DMA	DM		Dominica	PCLI	730.3125711240883	-61.33333	15.5	Dominica	https://www.geonames.org/	GeoNames
+DOM	DO		Dominican Republic	PCLI	48439.790109810456	-70.66667	19	Dominican Republic	https://www.geonames.org/	GeoNames
+DZA	DZ		Algeria	PCLI	2308857.817784158	3	28	Peopleâ€™s Democratic Republic of Algeria	https://www.geonames.org/	GeoNames
+ECU	EC		Ecuador	PCLI	255014.21488574092	-78.25	-1.25	Republic of Ecuador	https://www.geonames.org/	GeoNames
+EST	EE		Estonia	PCLI	45819.03919607016	26	59	Republic of Estonia	https://www.geonames.org/	GeoNames
+EGY	EG		Egypt	PCLI	1001078.5472864377	30	27	Arab Republic of Egypt	https://www.geonames.org/	GeoNames
+ERI	ER		Eritrea	PCLI	122537.73880057433	39	15	State of Eritrea	https://www.geonames.org/	GeoNames
+ESP	ES		Spain	PCLI	506884.11511566624	-4	40	Kingdom of Spain	https://www.geonames.org/	GeoNames
+ETH	ET		Ethiopia	PCLI	1127375.979708977	39.5	9	Federal Democratic Republic of Ethiopia	https://www.geonames.org/	GeoNames
+FIN	FI		Finland	PCLI	333059.05525200185	26	64	Republic of Finland	https://www.geonames.org/	GeoNames
+FJI	FJ		Fiji	PCLI	18930.08333615292	178	-18	Republic of Fiji	https://www.geonames.org/	GeoNames
+FRA	FR		France	PCLI	636758.5293095022	2	46	Republic of France	https://www.geonames.org/	GeoNames
+FRA	FR		France	PCLI	636758.5293095022	7.41903	43.73141	Principality of Monaco	https://www.geonames.org/	GeoNames
+GAB	GA		Gabon	PCLI	259968.48468844334	11.75	-1	Gabonese Republic	https://www.geonames.org/	GeoNames
+GBR	GB		United Kingdom	PCLI	243783.211052871	-2.69531	54.75844	United Kingdom of Great Britain and Northern Ireland	https://www.geonames.org/	GeoNames
+GRD	GD		Grenada	PCLI	347.26326182813665	-61.66667	12.11667	Grenada	https://www.geonames.org/	GeoNames
+GEO	GE		Georgia	PCLI	69570.72579287778	43.4999	41.99998	Georgia	https://www.geonames.org/	GeoNames
+GHA	GH		Ghana	PCLI	238668.6769644392	-1.2	8.1	Republic of Ghana	https://www.geonames.org/	GeoNames
+GMB	GM		Gambia	PCLI	10500.897039039673	-15.5	13.5	Gambia	https://www.geonames.org/	GeoNames
+GIN	GN		Guinea	PCLI	244301.98009354426	-10.66667	10.83333	Republic of Guinea	https://www.geonames.org/	GeoNames
+GNQ	GQ		Equatorial Guinea	PCLI	26671.690857533435	10.5	1.7	Republic of Equatorial Guinea	https://www.geonames.org/	GeoNames
+GRC	GR		Greece	PCLI	131353.43567330888	22	39	Hellenic Republic	https://www.geonames.org/	GeoNames
+GTM	GT		Guatemala	PCLI	108811.24580904085	-90.25	15.5	Republic of Guatemala	https://www.geonames.org/	GeoNames
+GNB	GW		Guinea-Bissau	PCLI	32829.628073843596	-15	12	Republic of Guinea-Bissau	https://www.geonames.org/	GeoNames
+GUY	GY		Guyana	PCLI	211213.69761780626	-59	5	Co-operative Republic of Guyana	https://www.geonames.org/	GeoNames
+HND	HN		Honduras	PCLI	112236.7314052547	-86.5	15	Republic of Honduras	https://www.geonames.org/	GeoNames
+HRV	HR		Croatia	PCLI	55077.44290253139	15.5	45.16667	Republic of Croatia	https://www.geonames.org/	GeoNames
+HTI	HT		Haiti	PCLI	26891.569007692582	-72.29616	19.07582	Republic of Haiti	https://www.geonames.org/	GeoNames
+HUN	HU		Hungary	PCLI	93200.95199920457	20	47	Hungary	https://www.geonames.org/	GeoNames
+IDN	ID		Indonesia	PCLI	1879827.3748788622	120	-5	Republic of Indonesia	https://www.geonames.org/	GeoNames
+IRL	IE		Ireland	PCLI	69445.01466838783	-8	53	Ireland	https://www.geonames.org/	GeoNames
+ISR	IL		Israel	PCLI	21900.93235056281	34.75	31.5	State of Israel	https://www.geonames.org/	GeoNames
+IND	IN		India	PCLI	3151452.491961143	79	22	Republic of India	https://www.geonames.org/	GeoNames
+IRQ	IQ		Iraq	PCLI	437366.9830915558	44	33	Republic of Iraq	https://www.geonames.org/	GeoNames
+IRN	IR		Iran	PCLI	1622510.1866869396	53	32	Islamic Republic of Iran	https://www.geonames.org/	GeoNames
+ISL	IS		Iceland	PCLI	102390.07076428035	-18	65	Republic of Iceland	https://www.geonames.org/	GeoNames
+ITA	IT		Italy	PCLI	301185.0685934983	12.83333	42.83333	Italian Republic	https://www.geonames.org/	GeoNames
+ITA	IT		Italy	PCLI	301185.0685934983	12.4463	43.9367	Repubblica di San Marino	https://www.geonames.org/	GeoNames
+ITA	IT		Italy	PCLI	301185.0685934983	12.4533	41.90225	State of the Vatican City	https://www.geonames.org/	GeoNames
+JAM	JM		Jamaica	PCLI	11032.896473883871	-77.25	18.16667	Jamaica	https://www.geonames.org/	GeoNames
+JOR	JO		Jordan	PCLI	88863.04758601561	36	31	Hashemite Kingdom of Jordan	https://www.geonames.org/	GeoNames
+JPN	JP		Japan	PCLI	373508.03418055526	139.75309	35.68536	Japan	https://www.geonames.org/	GeoNames
+KEN	KE		Kenya	PCLI	585702.5843625352	38	1	Republic of Kenya	https://www.geonames.org/	GeoNames
+KGZ	KG		Kyrgyzstan	PCLI	198990.45591103574	75	41.5	Kyrgyz Republic	https://www.geonames.org/	GeoNames
+KHM	KH		Cambodia	PCLI	181059.6108326335	105	13	Kingdom of Cambodia	https://www.geonames.org/	GeoNames
+KIR	KI		Gilbert Islands	PCLI	949.8634513214655	172.984	1.421	Republic of Kiribati	https://www.geonames.org/	GeoNames
+COM	KM		Comores	PCLI	1672.2269205270734	44.44553	-12.23333	Union of the Comoros	https://www.geonames.org/	GeoNames
+KNA	KN		Saint Kitts and Nevis	PCLI	264.1305694796238	-62.75	17.33333	Federation of Saint Kitts and Nevis	https://www.geonames.org/	GeoNames
+PRK	KP		North Korea	PCLI	122379.4003676106	127	40	Democratic Peopleâ€™s Republic of Korea	https://www.geonames.org/	GeoNames
+KOR	KR		South Korea	PCLI	98544.42882167482	127.75	36.5	Republic of Korea	https://www.geonames.org/	GeoNames
+KWT	KW		Kuwait	PCLI	17474.020396605734	47.75	29.5	State of Kuwait	https://www.geonames.org/	GeoNames
+KAZ	KZ		Kazakhstan	PCLI	2714263.3685441692	68	48	Republic of Kazakhstan	https://www.geonames.org/	GeoNames
+LAO	LA		Laos	PCLI	228113.97485040524	105	18	Lao Peopleâ€™s Democratic Republic	https://www.geonames.org/	GeoNames
+LBN	LB		Lebanon	PCLI	10000.011414743245	35.83333	33.83333	Lebanon	https://www.geonames.org/	GeoNames
+LCA	LC		Saint Lucia	PCLI	605.1306728761933	-60.96667	13.88333	Saint Lucia	https://www.geonames.org/	GeoNames
+LKA	LK		Sri Lanka	PCLI	66291.18329842921	80.75	7.75	Democratic Socialist Republic of Sri Lanka	https://www.geonames.org/	GeoNames
+LBR	LR		Liberia	PCLI	95298.1539476318	-9.5	6.5	Republic of Liberia	https://www.geonames.org/	GeoNames
+LSO	LS		Lesotho	PCLI	30106.518072275434	28.25	-29.5	Kingdom of Lesotho	https://www.geonames.org/	GeoNames
+LTU	LT		Lithuania	PCLI	64939.29751757669	24	55.41667	Republic of Lithuania	https://www.geonames.org/	GeoNames
+LUX	LU		Grand Duchy of Luxembourg	PCLI	2608.4689301204567	6.16667	49.75	Grand Duchy of Luxembourg	https://www.geonames.org/	GeoNames
+LVA	LV		Latvia	PCLI	64576.403598551624	25	57	Republic of Latvia	https://www.geonames.org/	GeoNames
+LBY	LY		Libya	PCLI	1623760.9003579712	17	28	Libya	https://www.geonames.org/	GeoNames
+MAR	MA		Morocco	PCLI	591745.2469115739	-10	28.5	Kingdom of Morocco	https://www.geonames.org/	GeoNames
+MDA	MD		Moldova	PCLI	33206.47762337327	28.58333	47.25	Republic of Moldova	https://www.geonames.org/	GeoNames
+MNE	ME		Montenegro	PCLI	13727.499653550689	19.25	42.75	Montenegro	https://www.geonames.org/	GeoNames
+MDG	MG		Madagascar	PCLI	592983.8842587469	47	-20	Republic of Madagascar	https://www.geonames.org/	GeoNames
+MKD	MK		Macedonia	PCLI	25385.269367754358	21.75	41.66667	North Macedonia	https://www.geonames.org/	GeoNames
+MLI	ML		Mali	PCLI	1252723.65729053	-2	18	Republic of Mali	https://www.geonames.org/	GeoNames
+MMR	MM		Myanmar	PCLI	663159.3007064887	96	21	Union of Burma	https://www.geonames.org/	GeoNames
+MNG	MN		Mongolia	PCLI	1564648.9906362689	105	46	Mongolia	https://www.geonames.org/	GeoNames
+MRT	MR		Mauritania	PCLI	1036391.8235232013	-10.5	20.25	Islamic Republic of Mauritania	https://www.geonames.org/	GeoNames
+MLT	MT		Malta	PCLI	325.6880511236057	14.43333	35.91667	Republic of Malta	https://www.geonames.org/	GeoNames
+MUS	MU		Republic of Mauritius	PCLI	2014.4396132592276	57.58333	-20.3	Republic of Mauritius	https://www.geonames.org/	GeoNames
+MDV	MV		Maldives	PCLI	108.74231101540427	73	3.2	Republic of Maldives	https://www.geonames.org/	GeoNames
+MWI	MW		Malawi	PCLI	119397.76652705297	34	-13.5	Republic of Malawi	https://www.geonames.org/	GeoNames
+MEX	MX		Mexico	PCLI	1957847.0583796725	-102	23	Mexico	https://www.geonames.org/	GeoNames
+MYS	MY		Malaysia	PCLI	327884.8886786309	112.5	2.5	Malaysia	https://www.geonames.org/	GeoNames
+MOZ	MZ		Mozambique	PCLI	788448.5360396466	35	-18.25	Republic of Mozambique	https://www.geonames.org/	GeoNames
+NAM	NA		Namibia	PCLI	822713.0501869222	17	-22	Republic of Namibia	https://www.geonames.org/	GeoNames
+NER	NE		Niger	PCLI	1181300.8923377672	9	18	Republic of Niger	https://www.geonames.org/	GeoNames
+NGA	NG		Nigeria	PCLI	907501.0844204949	8	10	Federal Republic of Nigeria	https://www.geonames.org/	GeoNames
+NIC	NI		Nicaragua	PCLI	128691.43282995676	-85	13	Republic of Nicaragua	https://www.geonames.org/	GeoNames
+NLD	NL		Netherlands	PCLI	37397.73062549219	5.75	52.25	Kingdom of the Netherlands	https://www.geonames.org/	GeoNames
+NOR	NO		Norway	PCLI	382066.5602031595	10	62	Kingdom of Norway	https://www.geonames.org/	GeoNames
+NPL	NP		Nepal	PCLI	147105.48971549707	84	28	Nepal	https://www.geonames.org/	GeoNames
+NRU	NR		Nauru	PCLI	28.76692206009218	166.933	-0.517	Nauru	https://www.geonames.org/	GeoNames
+NZL	NZ		New Zealand	PCLI	268494.5791221025	174	-42	New Zealand	https://www.geonames.org/	GeoNames
+OMN	OM		Oman	PCLI	311213.4541656622	57	21	Sultanate of Oman	https://www.geonames.org/	GeoNames
+PAN	PA		Panama	PCLI	74530.3083392666	-80	9	Republic of Panama	https://www.geonames.org/	GeoNames
+PER	PE		Peru	PCLI	1289866.4010943884	-75.25	-10	Republic of Peru	https://www.geonames.org/	GeoNames
+PNG	PG		Papua New Guinea	PCLI		147	-6	Independent State of Papua New Guinea	https://www.geonames.org/	GeoNames
+PHL	PH		Philippines	PCLI	293237.4880448443	122.56155	13.40882	Republic of the Philippines	https://www.geonames.org/	GeoNames
+PAK	PK		Pakistan	PCLI	872939.2882954803	70	30	Islamic Republic of Pakistan	https://www.geonames.org/	GeoNames
+POL	PL		Poland	PCLI	313430.77287693263	20	52	Republic of Poland	https://www.geonames.org/	GeoNames
+PRT	PT		Portugal	PCLI		-8.13057	39.6945	Portuguese Republic	https://www.geonames.org/	GeoNames
+PRY	PY		Paraguay	PCLI	399901.05470343813	-58	-23.33333	Republic of Paraguay	https://www.geonames.org/	GeoNames
+QAT	QA		Qatar	PCLI	11150.106992136532	51.25	25.5	State of Qatar	https://www.geonames.org/	GeoNames
+ROU	RO		Romania	PCLI	236376.6560898297	25	46	RomÃ¢nia	https://www.geonames.org/	GeoNames
+SRB	RS		Serbia	PCLI	77573.60378468432	20.45998	44.81892	Serbia	https://www.geonames.org/	GeoNames
+RUS	RU		Russia	PCLI	16980199.62053948	100	60	Russian Federation	https://www.geonames.org/	GeoNames
+RWA	RW		Rwanda	PCLI	25305.054919012287	30	-2	Republic of Rwanda	https://www.geonames.org/	GeoNames
+SAU	SA		Saudi Arabia	PCLI	1921725.381316085	45	25	Kingdom of Saudi Arabia	https://www.geonames.org/	GeoNames
+SLB	SB		Solomon Islands	PCLI	27198.794740282905	159	-8	Solomon Islands	https://www.geonames.org/	GeoNames
+SYC	SC		Seychelles	PCLI	435.6674565265611	55.66667	-4.58333	Republic of Seychelles	https://www.geonames.org/	GeoNames
+SDN	SD		Sudan	PCLI	1857637.0669359493	30	16	Republic of the Sudan	https://www.geonames.org/	GeoNames
+SWE	SE		Sweden	PCLI	446178.44094333774	15	62	Kingdom of Sweden	https://www.geonames.org/	GeoNames
+SGP	SG		Singapore	PCLI	510.5031737010714	103.8	1.36667	Republic of Singapore	https://www.geonames.org/	GeoNames
+SVN	SI		Slovenia	PCLI	20327.278948233627	15	46.08333	Republic of Slovenia	https://www.geonames.org/	GeoNames
+SVK	SK		Slovakia	PCLI	48457.788850943936	19.5	48.66667	Slovak Republic	https://www.geonames.org/	GeoNames
+SLE	SL		Sierra Leone	PCLI	71611.71499421634	-11.5	8.5	Republic of Sierra Leone	https://www.geonames.org/	GeoNames
+SEN	SN		Senegal	PCLI	196224.29707317977	-14.25	14.5	Republic of Senegal	https://www.geonames.org/	GeoNames
+SOM	SO		Federal Republic of Somalia	PCLI	471815.00342042226	48	6	Somalia	https://www.geonames.org/	GeoNames
+SUR	SR		Suriname	PCLI	145123.53017072426	-56	4	Republic of Suriname	https://www.geonames.org/	GeoNames
+SSD	SS		South Sudan	PCLI		30	7.5	South Sudan	https://www.geonames.org/	GeoNames
+STP	ST		Sao Tome and Principe	PCLI	1037.1561366140731	7	1	Sao Tome and Principe	https://www.geonames.org/	GeoNames
+SLV	SV		El Salvador	PCLI	20539.229033657255	-88.91667	13.83333	Republic of El Salvador	https://www.geonames.org/	GeoNames
+SYR	SY		Syria	PCLI	185939.04840221372	38	35	Syrian Arab Republic	https://www.geonames.org/	GeoNames
+SWZ	SZ		Swaziland	PCLI	17111.84503911677	31.5	-26.5	Eswatini	https://www.geonames.org/	GeoNames
+TCD	TD		Chad	PCLI	1266282.335587437	19	15	Republic of Chad	https://www.geonames.org/	GeoNames
+TGO	TG		Togo	PCLI	56863.47734125389	1.08333	8.66667	Togolese Republic	https://www.geonames.org/	GeoNames
+THA	TH		Thailand	PCLI	514453.67794878985	101	15.5	Kingdom of Thailand	https://www.geonames.org/	GeoNames
+TJK	TJ		Tajikistan	PCLI	142238.25603156321	71	39	Republic of Tajikistan	https://www.geonames.org/	GeoNames
+TLS	TL		East Timor	PCLI	15082.235169431544	125.75	-8.83333	Democratic Republic of Timor-Leste	https://www.geonames.org/	GeoNames
+TKM	TM		Turkmenistan	PCLI	470850.3991076106	59.66667	39.75	Turkmenistan	https://www.geonames.org/	GeoNames
+TUN	TN		Tunisia	PCLI	156611.6936003666	9	34	Republic of Tunisia	https://www.geonames.org/	GeoNames
+TON	TO		Tonga	PCLI	603.113108349627	-175	-20	Kingdom of Tonga	https://www.geonames.org/	GeoNames
+TUR	TR		Turkey	PCLI	780079.652511871	35	39	Republic of Turkey	https://www.geonames.org/	GeoNames
+TTO	TT		Trinidad and Tobago	PCLI	5122.926215130053	-61	11	Republic of Trinidad and Tobago	https://www.geonames.org/	GeoNames
+TUV	TV		Tuvalu	PCLI	23.018500347682377	179.14478	-8.51719	Tuvalu	https://www.geonames.org/	GeoNames
+TWN	TW		Taiwan	PCLI	36197.77371986479	121	24	Taiwan	https://www.geonames.org/	GeoNames
+TZA	TZ		Tanzania	PCLI	941505.9871227486	35	-6	United Republic of Tanzania	https://www.geonames.org/	GeoNames
+UKR	UA		Ukraine	PCLI	571998.5759768161	32	49	Ukraine	https://www.geonames.org/	GeoNames
+UGA	UG		Uganda	PCLI	241853.6301856624	32.5	1.25	Republic of Uganda	https://www.geonames.org/	GeoNames
+USA	US		United States	PCLI	9464330.067774186	-98.5	39.76	United States	https://www.geonames.org/	GeoNames
+URY	UY		Uruguay	PCLI	177345.12616579118	-56	-33	Oriental Republic of Uruguay	https://www.geonames.org/	GeoNames
+UZB	UZ		Uzbekistan	PCLI	447830.15943964483	63.83333	41.66667	Republic of Uzbekistan	https://www.geonames.org/	GeoNames
+VCT	VC		Saint Vincent and the Grenadines	PCLI	367.72526305705827	-61.2	13.08333	Saint Vincent and the Grenadines	https://www.geonames.org/	GeoNames
+VEN	VE		Venezuela	PCLI	912684.3995537218	-66	8	Bolivarian Republic of Venezuela	https://www.geonames.org/	GeoNames
+VNM	VN		Vietnam	PCLI	328892.1170819263	107.83333	16.16667	Socialist Republic of Vietnam	https://www.geonames.org/	GeoNames
+VUT	VU		Vanuatu	PCLI	12296.604102737805	167.5	-16.3333	Republic of Vanuatu	https://www.geonames.org/	GeoNames
+WSM	WS		Samoa	PCLI	2780.412472401772	-172.13333	-13.8	Independent State of Samoa	https://www.geonames.org/	GeoNames
+	XK		Kosovo	PCLI		20.91667	42.58333	Republic of Kosovo	https://www.geonames.org/	GeoNames
+YEM	YE		Yemen	PCLI	453075.75716205843	47.5	15.5	Republic of Yemen	https://www.geonames.org/	GeoNames
+ZAF	ZA		South Africa	PCLI	1219826.7283745739	24	-29	South Africa	https://www.geonames.org/	GeoNames
+ZMB	ZM		Zambia	PCLI	751914.9431398275	28.5	-14.33333	Republic of Zambia	https://www.geonames.org/	GeoNames
+ZWE	ZW		Zimbabwe	PCLI	389337.4811096561	29.75	-19	Republic of Zimbabwe	https://www.geonames.org/	GeoNames

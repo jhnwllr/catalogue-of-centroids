@@ -1,0 +1,385 @@
+iso3	iso2	gadm1	gbif_name	type	area_sqkm	decimal_longitude	decimal_latitude	source_locality_name	source_reference	source
+AND	AD		Andorra	PCLI	452.24793683157947	1.576	42.549	Andorra	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ARE	AE		United Arab Emirates	PCLI	71084.63633494375	54	24	United Arab Emirates	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ARE	AE		United Arab Emirates	PCLI	71084.63633494375	54.163	23.549	United Arab Emirates	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AFG	AF		Afghanistan	PCLI	642181.6163942092	65.216	33.677	Afghanistan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ATG	AG		Antigua and Barbuda	PCLI	451.48018877323005	-61.8	17.05	Antigua & Barbuda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ATG	AG		Antigua and Barbuda	PCLI	451.48018877323005	-61.783	17.078	Antigua & Barbuda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AIA	AI		Anguilla	PCLI	80.67384596823143	-63.032	18.237	Anguilla	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AIA	AI		Anguilla	PCLI	80.67384596823143	-63.1666666667	18.25	Anguilla	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ALB	AL		Albania	PCLI	28335.84516398934	20.068	41.143	Albania	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ARM	AM		Armenia	PCLI	29588.31031852631	44.563	40.534	Armenia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AGO	AO		Angola	PCLI	1244654.313546171	17.544	-12.296	Angola	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ATA	AQ		Antarctica	PCLI	12358174.388790991	21.304	-80.446	Antarctica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ARG	AR		Argentina	PCLI	2784305.9189470923	-65.167	-35.377	Argentina	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ASM	AS		American Samoa	PCLI	180.3056963678391	-170.73	-14.318	American Samoa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ASM	AS		American Samoa	PCLI	180.3056963678391	-170	-14.3333333333	American Samoa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AUT	AT		Austria	PCLI	83993.196879589	13.3333333333	47.3333333333	Austria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AUT	AT		Austria	PCLI	83993.196879589	14.912	47.683	Austria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AUS	AU		Australia	PCLI	7691175.090399871	133	-27	Australia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AUS	AU		Australia	PCLI	7691175.090399871	136.189	-24.973	Australia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ABW	AW		Aruba	PCLI	169.76642238220072	-69.9666666667	12.5	Aruba	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ABW	AW		Aruba	PCLI	169.76642238220072	-69.977	12.517	Aruba	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ALA	AX		Åland Islands	PCLI		20	60.25	Aland Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ALA	AX		Åland Islands	PCLI		19.952	60.198	Aland Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+AZE	AZ		Azerbaijan	PCLI	86249.80023303672	47.395	40.43	Azerbaijan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BIH	BA		Bosnia and Herzegovina	PCLI	51826.537863392885	17.786	44.169	Bosnia & Herzegovina	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BIH	BA		Bosnia and Herzegovina	PCLI	51826.537863392885	18	44	Bosnia & Herzegovina	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BRB	BB		Barbados	PCLI	444.2213241323988	-59.5333333333	13.1666666667	Barbados	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BRB	BB		Barbados	PCLI	444.2213241323988	-59.559	13.153	Barbados	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BGD	BD		Bangladesh	PCLI	136903.67805500666	89.941	24.218	Bangladesh	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BEL	BE		Belgium	PCLI	30669.830511667642	4.664	50.643	Belgium	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BEL	BE		Belgium	PCLI	30669.830511667642	4	50.8333333333	Belgium	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BFA	BF		Burkina Faso	PCLI	272769.396656721	-2	13	Burkina Faso	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BFA	BF		Burkina Faso	PCLI	272769.396656721	-1.74	12.278	Burkina Faso	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BGR	BG		Bulgaria	PCLI	112760.6938197593	25	43	Bulgaria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BGR	BG		Bulgaria	PCLI	112760.6938197593	25.231	42.761	Bulgaria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BHR	BH		Bahrain	PCLI	584.9397795935516	50.562	26.019	Bahrain	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BHR	BH		Bahrain	PCLI	584.9397795935516	50.55	26	Bahrain	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BDI	BI		Burundi	PCLI	27041.26629610865	29.887	-3.356	Burundi	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BEN	BJ		Benin	PCLI	116113.30895446315	2.469	10.541	Benin	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BLM	BL			PCLI	24.423261174697878	-63.043	18.04	St. Barthelemy	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BLM	BL		Saint-Barthélemy	PCLI	24.423261174697878	-62.833333	17.9	St. Barthelemy	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BMU	BM		Bermuda	PCLI	62.302165719231844	-64.75	32.3333333333	Bermuda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BMU	BM		Bermuda	PCLI	62.302165719231844	-64.709	32.336	Bermuda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BRN	BN		Brunei	PCLI	5716.69325911628	114.666666667	4.5	Brunei	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BRN	BN		Brunei	PCLI	5716.69325911628	114.591	4.468	Brunei	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BOL	BO		Bolivia	PCLI	1086810.6457342159	-64.671	-16.715	Bolivia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BES	BQ		Bonaire	PCLI		-68.25	12.1666666667	Caribbean Netherlands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BRA	BR		Brazil	PCLI	8472669.678377096	-53.089	-10.772	Brazil	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BHS	BS		Bahamas	PCLI	12592.697860504082	-78.014	24.628	Bahamas	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BHS	BS		Bahamas	PCLI	12592.697860504082	-76	24.25	Bahamas	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BTN	BT		Bhutan	PCLI	40365.36421684413	90.429	27.415	Bhutan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BVT	BV		Bouvet	PCLI		3.412	-54.422	Bouvet Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BVT	BV		Bouvet	PCLI		3.4	-54.4333333333	Bouvet Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BWA	BW		Botswana	PCLI	579029.2005460369	23.815	-22.182	Botswana	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BLR	BY		Belarus	PCLI	207499.13339444195	28.047	53.54	Belarus	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+BLZ	BZ		Belize	PCLI	22299.42219573088	-88.602	17.219	Belize	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CAN	CA		Canada	PCLI	9945527.764985083	-95	60	Canada	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CAN	CA		Canada	PCLI	9945527.764985083	-109.433	59.081	Canada	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CCK	CC		Cocos Islands	PCLI		96.8333333333	-12.5	Cocos (Keeling) Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CCK	CC		Cocos Islands	PCLI		96.839	-12.173	Cocos (Keeling) Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COD	CD		Democratic Republic of the Congo	PCLI	2325240.4236477143	25	0.0166666666667	Congo - Kinshasa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COD	CD		Democratic Republic of the Congo	PCLI	2325240.4236477143	23.654	-2.876	Congo - Kinshasa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CAF	CF		Central African Republic	PCLI	617984.2399580368	20.483	6.571	Central African Republic	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CAF	CF		Central African Republic	PCLI	617984.2399580368	21	7	Central African Republic	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COG	CG		Republic of the Congo	PCLI	344888.6767348834	15	-1	Congo - Brazzaville	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COG	CG		Republic of the Congo	PCLI	344888.6767348834	15.986	-0.055	Congo - Brazzaville	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CHE	CH		Switzerland	PCLI	41435.79877039148	7.908	46.861	Switzerland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CIV	CI		Ivory Coast	PCLI	320677.15691769694	-5	8	Cote d'Ivoire	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CIV	CI		Ivory Coast	PCLI	320677.15691769694	-5.556	7.632	Cote d'Ivoire	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COK	CK		Cook Islands	PCLI	191.1318923077924	-159.766666667	-21.2333333333	Cook Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COK	CK		Cook Islands	PCLI	191.1318923077924	-159.782	-21.219	Cook Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CHL	CL		Chile	PCLI	736592.7499003441	-69.433	-23.389	Chile	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CMR	CM		Cameroon	PCLI	464319.27834895253	12.277	5.133	Cameroon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CHN	CN		China	PCLI	9374591.216965673	106.514	33.42	China	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COL	CO		Colombia	PCLI	1135117.8781117965	-73.076	3.9	Colombia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CRI	CR		Costa Rica	PCLI	51144.33533147565	-84	10	Costa Rica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CRI	CR		Costa Rica	PCLI	51144.33533147565	-83.946	9.971	Costa Rica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CUB	CU		Cuba	PCLI	109929.18207741623	-80	21.5	Cuba	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CUB	CU		Cuba	PCLI	109929.18207741623	-77.781	21.297	Cuba	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CPV	CV		Cape Verde	PCLI	3883.1427075028528	-24	16	Cape Verde	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CPV	CV		Cape Verde	PCLI	3883.1427075028528	-23.634	15.071	Cape Verde	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CUW	CW		Curaçao	PCLI	463.2502195446062	-69	12.1666666667	Curacao	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CXR	CX		Christmas Island	PCLI		105.704	-10.444	Christmas Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CXR	CX		Christmas Island	PCLI		105.666666667	-10.5	Christmas Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CYP	CY		Cyprus	PCLI	5395.020997606832	33.219	35.043	Cyprus	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CZE	CZ		Czech Republic	PCLI	78758.85950496417	15.338	49.743	Czechia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CZE	CZ		Czech Republic	PCLI	78758.85950496417	15.5	49.75	Czechia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DEU	DE		Germany	PCLI	357673.8176546789	9	51	Germany	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DEU	DE		Germany	PCLI	357673.8176546789	9.851	51.11	Germany	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DJI	DJ		Djibouti	PCLI	21847.61409875067	43	11.5	Djibouti	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DJI	DJ		Djibouti	PCLI	21847.61409875067	42.516	11.9	Djibouti	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DNK	DK		Denmark	PCLI	42696.43397568578	9.264	56.058	Denmark	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DMA	DM		Dominica	PCLI	730.3125711240883	-61.3333333333	15.4166666667	Dominica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DMA	DM		Dominica	PCLI	730.3125711240883	-61.356	15.475	Dominica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DOM	DO		Dominican Republic	PCLI	48439.790109810456	-70.6666666667	19	Dominican Republic	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DOM	DO		Dominican Republic	PCLI	48439.790109810456	-70.729	19.015	Dominican Republic	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+DZA	DZ		Algeria	PCLI	2308857.817784158	2.632	28.163	Algeria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ECU	EC		Ecuador	PCLI	255014.21488574092	-78.497	-1.385	Ecuador	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+EST	EE		Estonia	PCLI	45819.03919607016	25.793	58.674	Estonia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+EGY	EG		Egypt	PCLI	1001078.5472864377	29.872	26.494	Egypt	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ESH	EH			PCLI		-13.706	24.554	Western Sahara	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ESH	EH			PCLI		-13	24.5	Western Sahara	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ERI	ER		Eritrea	PCLI	122537.73880057433	38.219	16.045	Eritrea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ESP	ES		Spain	PCLI	506884.11511566624	-3.649	40.227	Spain	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ETH	ET		Ethiopia	PCLI	1127375.979708977	39.616	8.626	Ethiopia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ETH	ET		Ethiopia	PCLI	1127375.979708977	38	8	Ethiopia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FIN	FI		Finland	PCLI	333059.05525200185	26.272	64.504	Finland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FJI	FJ		Fiji	PCLI	18930.08333615292	175	-18	Fiji	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FJI	FJ		Fiji	PCLI	18930.08333615292	177.974	-17.819	Fiji	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FLK	FK			PCLI	11597.223908080165	-58.694	-51.665	Falkland Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FLK	FK			PCLI	11597.223908080165	-59	-51.75	Falkland Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FSM	FM		Micronesia	PCLI	633.8453645261274	158.25	6.91666666667	Micronesia (Federated States of)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FSM	FM		Micronesia	PCLI	633.8453645261274	158.235	6.883	Micronesia (Federated States of)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FRO	FO		Faeroe	PCLI	1328.521588833648	-7	62	Faroe Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FRO	FO		Faeroe	PCLI	1328.521588833648	-6.864	62.05	Faroe Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+FRA	FR		France	PCLI	636758.5293095022	2.55	46.565	France	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GAB	GA		Gabon	PCLI	259968.48468844334	11.797	-0.591	Gabon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GBR	GB		United Kingdom	PCLI	243783.211052871	-2	54	United Kingdom	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GBR	GB		United Kingdom	PCLI	243783.211052871	-2.9	54.16	United Kingdom	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GRD	GD		Grenada	PCLI	347.26326182813665	-61.678	12.118	Grenada	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GRD	GD		Grenada	PCLI	347.26326182813665	-61.6666666667	12.1166666667	Grenada	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GEO	GE		Georgia	PCLI	69570.72579287778	43.518	42.176	Georgia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GUF	GF		French Guiana	PCLI		-53.241	3.924	French Guiana	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GUF	GF		French Guiana	PCLI		-53	4	French Guiana	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GGY	GG		Guernsey	PCLI	73.98167691376233	-2.576	49.459	Guernsey	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GGY	GG		Guernsey	PCLI	73.98167691376233	-2.58333333333	49.4666666667	Guernsey	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GHA	GH		Ghana	PCLI	238668.6769644392	-1.207	7.96	Ghana	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GIB	GI			PCLI	3.6923712199048997	-5.345	36.138	Gibraltar	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GIB	GI			PCLI	3.6923712199048997	-5.35	36.1333333333	Gibraltar	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GRL	GL		Greenland	PCLI	2154380.7913027797	-41.391	74.719	Greenland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GMB	GM		Gambia	PCLI	10500.897039039673	-15.386	13.453	Gambia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GMB	GM		Gambia	PCLI	10500.897039039673	-16.5666666667	13.4666666667	Gambia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GIN	GN		Guinea	PCLI	244301.98009354426	-10.942	10.439	Guinea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GLP	GP		Guadeloupe	PCLI		-61.5833333333	16.25	Guadeloupe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GLP	GP		Guadeloupe	PCLI		-61.441	16.286	Guadeloupe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GNQ	GQ		Equatorial Guinea	PCLI	26671.690857533435	10	2	Equatorial Guinea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GNQ	GQ		Equatorial Guinea	PCLI	26671.690857533435	10.488	1.607	Equatorial Guinea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GRC	GR		Greece	PCLI	131353.43567330888	21.766	39.666	Greece	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SGS	GS			PCLI	3921.4841282731895	-36.891	-54.209	South Georgia & South Sandwich Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SGS	GS			PCLI	3921.4841282731895	-37	-54.5	South Georgia & South Sandwich Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GTM	GT		Guatemala	PCLI	108811.24580904085	-90.398	15.256	Guatemala	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GUM	GU		Guam	PCLI	564.2033872157984	144.783333333	13.4666666667	Guam	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GUM	GU		Guam	PCLI	564.2033872157984	144.707	13.385	Guam	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GNB	GW		Guinea-Bissau	PCLI	32829.628073843596	-14.651	12.125	Guinea-Bissau	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+GUY	GY		Guyana	PCLI	211213.69761780626	-58.974	4.792	Guyana	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HKG	HK		Hong Kong	PCLI	1036.2047445663206	114.129	22.423	Hong Kong SAR China	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HKG	HK		Hong Kong	PCLI	1036.2047445663206	114.166666667	22.25	Hong Kong SAR China	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HMD	HM		Heard and McDonald Islands	PCLI	394.8631323674507	72.5166666667	-53.1	Heard & McDonald Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HMD	HM		Heard and McDonald Islands	PCLI	394.8631323674507	73.507	-53.111	Heard & McDonald Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HND	HN		Honduras	PCLI	112236.7314052547	-86.863	14.819	Honduras	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HRV	HR		Croatia	PCLI	55077.44290253139	15.5	45.1666666667	Croatia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HRV	HR		Croatia	PCLI	55077.44290253139	16.693	45.723	Croatia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HTI	HT		Haiti	PCLI	26891.569007692582	-72.278	19.142	Haiti	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HTI	HT		Haiti	PCLI	26891.569007692582	-72.4166666667	19	Haiti	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+HUN	HU		Hungary	PCLI	93200.95199920457	19.134	47.07	Hungary	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IDN	ID		Indonesia	PCLI	1879827.3748788622	114.252	-0.976	Indonesia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IRL	IE		Ireland	PCLI	69445.01466838783	-8.152	53.177	Ireland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ISR	IL		Israel	PCLI	21900.93235056281	34.851	31.026	Israel	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IMN	IM		Isle of Man	PCLI	574.8173931731901	-4.527	54.229	Isle of Man	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IMN	IM		Isle of Man	PCLI	574.8173931731901	-4.5	54.25	Isle of Man	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IND	IN		India	PCLI	3151452.491961143	79.619	22.881	India	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IOT	IO			PCLI	49.06066588711554	72.416	-7.335	British Indian Ocean Territory	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IOT	IO			PCLI	49.06066588711554	71.5	-6	British Indian Ocean Territory	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IRQ	IQ		Iraq	PCLI	437366.9830915558	43.772	33.048	Iraq	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+IRN	IR		Iran	PCLI	1622510.1866869396	54.301	32.565	Iran	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ISL	IS		Iceland	PCLI	102390.07076428035	-18.48	64.764	Iceland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ITA	IT		Italy	PCLI	301185.0685934983	10.44	44.931	Italy	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ITA	IT		Italy	PCLI	301185.0685934983	12.8333333333	42.8333333333	Italy	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+JEY	JE		Jersey	PCLI	119.05032234631538	-2.16666666667	49.25	Jersey	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+JEY	JE		Jersey	PCLI	119.05032234631538	-2.129	49.219	Jersey	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+JAM	JM		Jamaica	PCLI	11032.896473883871	-77.32	18.151	Jamaica	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+JOR	JO		Jordan	PCLI	88863.04758601561	36.319	30.703	Jordan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+JPN	JP		Japan	PCLI	373508.03418055526	139.068	36.491	Japan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KEN	KE		Kenya	PCLI	585702.5843625352	37.858	0.53	Kenya	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KGZ	KG		Kyrgyzstan	PCLI	198990.45591103574	74.555	41.465	Kyrgyzstan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KHM	KH		Cambodia	PCLI	181059.6108326335	105	13	Cambodia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KHM	KH		Cambodia	PCLI	181059.6108326335	104.564	12.714	Cambodia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KIR	KI		Gilbert Islands	PCLI	949.8634513214655	173	1.41666666667	Kiribati	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KIR	KI		Gilbert Islands	PCLI	949.8634513214655	175.036	-1.508	Kiribati	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COM	KM		Comores	PCLI	1672.2269205270734	44.25	-12.1666666667	Comoros	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+COM	KM		Comores	PCLI	1672.2269205270734	43.337	-11.758	Comoros	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KNA	KN		Saint Kitts and Nevis	PCLI	264.1305694796238	-62.75	17.3333333333	St. Kitts & Nevis	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KNA	KN		Saint Kitts and Nevis	PCLI	264.1305694796238	-62.769	17.34	St. Kitts & Nevis	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRK	KP		North Korea	PCLI	122379.4003676106	127	40	North Korea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRK	KP		North Korea	PCLI	122379.4003676106	126.451	39.778	North Korea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KOR	KR		South Korea	PCLI	98544.42882167482	128.103	36.504	South Korea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KOR	KR		South Korea	PCLI	98544.42882167482	127.5	37	South Korea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KWT	KW		Kuwait	PCLI	17474.020396605734	47.376	29.476	Kuwait	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KWT	KW		Kuwait	PCLI	17474.020396605734	47.966667	29.366667	Kuwait	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CYM	KY		Cayman Islands	PCLI	309.19646687841606	-81.198	19.314	Cayman Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+CYM	KY		Cayman Islands	PCLI	309.19646687841606	-80.5	19.5	Cayman Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+KAZ	KZ		Kazakhstan	PCLI	2714263.3685441692	67.301	48.16	Kazakhstan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LAO	LA		Laos	PCLI	228113.97485040524	102.471	19.905	Laos	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LBN	LB		Lebanon	PCLI	10000.011414743245	35.8333333333	33.8333333333	Lebanon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LBN	LB		Lebanon	PCLI	10000.011414743245	35.888	33.92	Lebanon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LCA	LC		Saint Lucia	PCLI	605.1306728761933	-60.969	13.898	St. Lucia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LCA	LC		Saint Lucia	PCLI	605.1306728761933	-60.9666666667	13.8833333333	St. Lucia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LIE	LI			PCLI	137.24980376003361	9.53333333333	47.2666666667	Liechtenstein	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LIE	LI			PCLI	137.24980376003361	9.555	47.153	Liechtenstein	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LKA	LK		Sri Lanka	PCLI	66291.18329842921	81	7	Sri Lanka	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LKA	LK		Sri Lanka	PCLI	66291.18329842921	80.704	7.612	Sri Lanka	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LBR	LR		Liberia	PCLI	95298.1539476318	-9.657	6.682	Liberia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LSO	LS		Lesotho	PCLI	30106.518072275434	28.243	-29.581	Lesotho	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LSO	LS		Lesotho	PCLI	30106.518072275434	28.5	-29.5	Lesotho	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LTU	LT		Lithuania	PCLI	64939.29751757669	23.897	55.336	Lithuania	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LUX	LU		Grand Duchy of Luxembourg	PCLI	2608.4689301204567	6.16666666667	49.75	Luxembourg	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LUX	LU		Grand Duchy of Luxembourg	PCLI	2608.4689301204567	6.088	49.771	Luxembourg	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LVA	LV		Latvia	PCLI	64576.403598551624	25.641	56.858	Latvia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+LBY	LY		Libya	PCLI	1623760.9003579712	18.023	27.044	Libya	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MAR	MA		Morocco	PCLI	591745.2469115739	-5.758	32.706	Morocco	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MCO	MC			PCLI	18.83968030350399	7.419722	43.732778	Monaco	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MCO	MC		Monaco	PCLI	18.83968030350399	7.412	43.75	Monaco	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MDA	MD		Moldova	PCLI	33206.47762337327	29	47	Moldova	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MDA	MD		Moldova	PCLI	33206.47762337327	28.599	47.193	Moldova	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MNE	ME		Montenegro	PCLI	13727.499653550689	19.3	42.5	Montenegro	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MNE	ME		Montenegro	PCLI	13727.499653550689	19.254	42.792	Montenegro	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MAF	MF			PCLI	68.27952917497707	-63.041	18.094	Saint Martin (French part)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MAF	MF			PCLI	68.27952917497707	-63.06	18.075278	Saint Martin (French part)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MDG	MG		Madagascar	PCLI	592983.8842587469	46.706	-19.374	Madagascar	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MHL	MH		Marshall Islands	PCLI	164.8223820920804	168	9	Marshall Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MHL	MH		Marshall Islands	PCLI	164.8223820920804	168.963	7.595	Marshall Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MKD	MK		Macedonia	PCLI	25385.269367754358	21.698	41.6	Macedonia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MKD	MK		Macedonia	PCLI	25385.269367754358	22	41.8333333333	Macedonia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MLI	ML		Mali	PCLI	1252723.65729053	-3.524	17.35	Mali	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MMR	MM		Myanmar	PCLI	663159.3007064887	96.041	21.718	Myanmar (Burma)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MMR	MM		Myanmar	PCLI	663159.3007064887	98	22	Myanmar (Burma)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MNG	MN		Mongolia	PCLI	1564648.9906362689	102.876	46.056	Mongolia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MAC	MO			PCLI	30.076684162869036	113.55	22.1666666667	Macau SAR China	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MAC	MO			PCLI	30.076684162869036	113.545	22.2	Macau SAR China	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MNP	MP		Northern Mariana Islands	PCLI	579.3044095829808	145.623	15.005	Northern Mariana Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MNP	MP		Northern Mariana Islands	PCLI	579.3044095829808	145.75	15.2	Northern Mariana Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MTQ	MQ		Martinique	PCLI		-61.0833333333	14.6	Martinique	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MTQ	MQ		Martinique	PCLI		-61.021	14.653	Martinique	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MRT	MR		Mauritania	PCLI	1036391.8235232013	-10.332	20.26	Mauritania	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MSR	MS		Montserrat	PCLI	99.5971440362947	-62.187	16.736	Montserrat	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MLT	MT		Malta	PCLI	325.6880511236057	14.5833333333	35.8333333333	Malta	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MLT	MT		Malta	PCLI	325.6880511236057	14.442	35.89	Malta	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MUS	MU		Republic of Mauritius	PCLI	2014.4396132592276	57.55	-20.2833333333	Mauritius	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MUS	MU		Republic of Mauritius	PCLI	2014.4396132592276	57.583	-20.255	Mauritius	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MDV	MV		Maldives	PCLI	108.74231101540427	73	3.25	Maldives	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MDV	MV		Maldives	PCLI	108.74231101540427	72.92	3.548	Maldives	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MWI	MW		Malawi	PCLI	119397.76652705297	33.808	-13.4	Malawi	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MEX	MX		Mexico	PCLI	1957847.0583796725	-102.535	23.951	Mexico	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MYS	MY		Malaysia	PCLI	327884.8886786309	102.195	4.201	Malaysia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MOZ	MZ		Mozambique	PCLI	788448.5360396466	37.923	-14.422	Mozambique	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NAM	NA		Namibia	PCLI	822713.0501869222	17.218	-22.133	Namibia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NCL	NC		New Caledonia	PCLI	18841.034983433838	165.5	-21.5	New Caledonia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NCL	NC		New Caledonia	PCLI	18841.034983433838	165.447	-21.359	New Caledonia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NER	NE		Niger	PCLI	1181300.8923377672	9.398	17.426	Niger	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NFK	NF		Norfolk Island	PCLI	41.146497360852244	167.953	-29.037	Norfolk Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NFK	NF		Norfolk Island	PCLI	41.146497360852244	167.95	-29.0333333333	Norfolk Island	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NGA	NG		Nigeria	PCLI	907501.0844204949	8.105	9.594	Nigeria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NIC	NI		Nicaragua	PCLI	128691.43282995676	-85.034	12.84	Nicaragua	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NLD	NL		Netherlands	PCLI	37397.73062549219	5.389	52.077	Netherlands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NOR	NO		Norway	PCLI	382066.5602031595	8.74	61.152	Norway	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NPL	NP		Nepal	PCLI	147105.48971549707	83.939	28.253	Nepal	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NRU	NR		Nauru	PCLI	28.76692206009218	166.916666667	-0.533333333333	Nauru	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NRU	NR		Nauru	PCLI	28.76692206009218	166.93	-0.522	Nauru	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NIU	NU		Niue	PCLI	220.5712371115818	-169.869	-19.052	Niue	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NIU	NU		Niue	PCLI	220.5712371115818	-169.866666667	-19.0333333333	Niue	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NZL	NZ		New Zealand	PCLI	268494.5791221025	174	-41	New Zealand	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+NZL	NZ		New Zealand	PCLI	268494.5791221025	172.235	-42.634	New Zealand	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+OMN	OM		Oman	PCLI	311213.4541656622	57.407	21.656	Oman	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PAN	PA		Panama	PCLI	74530.3083392666	-80.92	8.384	Panama	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PER	PE		Peru	PCLI	1289866.4010943884	-75.552	-9.326	Peru	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PYF	PF		French Polynesia	PCLI	3336.547746896668	-149.462	-17.626	French Polynesia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PYF	PF		French Polynesia	PCLI	3336.547746896668	-140	-15	French Polynesia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PNG	PG		Papua New Guinea	PCLI		143.459	-5.949	Papua New Guinea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PNG	PG		Papua New Guinea	PCLI		147	-6	Papua New Guinea	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PHL	PH		Philippines	PCLI	293237.4880448443	122.466	11.118	Philippines	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PHL	PH		Philippines	PCLI	293237.4880448443	122	13	Philippines	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PAK	PK		Pakistan	PCLI	872939.2882954803	69.386	29.967	Pakistan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+POL	PL		Poland	PCLI	313430.77287693263	19.401	52.125	Poland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SPM	PM		Saint-Pierre and Miquelon	PCLI	242.74984975668715	-56.325	47.042	St. Pierre & Miquelon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SPM	PM		Saint-Pierre and Miquelon	PCLI	242.74984975668715	-56.3333333333	46.8333333333	St. Pierre & Miquelon	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PCN	PN		Pitcairn	PCLI	42.569755890356156	-128.316	-24.366	Pitcairn Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PCN	PN		Pitcairn	PCLI	42.569755890356156	-130.1	-25.0666666667	Pitcairn Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRI	PR		Puerto Rico	PCLI	9005.976495638546	-66.466	18.221	Puerto Rico	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRI	PR		Puerto Rico	PCLI	9005.976495638546	-66.5	18.25	Puerto Rico	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PSE	PS			PCLI		35.278	32.037	Palestinian Territories	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PSE	PS			PCLI		35.25	32	Palestinian Territories	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRT	PT		Portugal	PCLI		-8.058	40.309	Portugal	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PLW	PW		Palau	PCLI	491.9321840072223	134.57	7.501	Palau	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PLW	PW		Palau	PCLI	491.9321840072223	134.5	7.5	Palau	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+PRY	PY		Paraguay	PCLI	399901.05470343813	-58.391	-23.236	Paraguay	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+QAT	QA		Qatar	PCLI	11150.106992136532	51.191	25.316	Qatar	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+REU	RE		Réunion	PCLI		55.538	-21.122	Reunion	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ROU	RO		Romania	PCLI	236376.6560898297	24.969	45.844	Romania	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SRB	RS		Serbia	PCLI	77573.60378468432	20.806	44.032	Serbia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SRB	RS		Serbia	PCLI	77573.60378468432	21	44	Serbia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+RUS	RU		Russia	PCLI	16980199.62053948	96.689	61.988	Russia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+RWA	RW		Rwanda	PCLI	25305.054919012287	29.917	-1.998	Rwanda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SAU	SA		Saudi Arabia	PCLI	1921725.381316085	44.585	24.023	Saudi Arabia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SAU	SA		Saudi Arabia	PCLI	1921725.381316085	45	25	Saudi Arabia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLB	SB		Solomon Islands	PCLI	27198.794740282905	159	-8	Solomon Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLB	SB		Solomon Islands	PCLI	27198.794740282905	160.109	-9.611	Solomon Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SYC	SC		Seychelles	PCLI	435.6674565265611	55.474	-4.647	Seychelles	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SYC	SC		Seychelles	PCLI	435.6674565265611	55.6666666667	-4.58333333333	Seychelles	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SDN	SD		Sudan	PCLI	1857637.0669359493	30	15	Sudan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SDN	SD		Sudan	PCLI	1857637.0669359493	30.05	13.832	Sudan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SWE	SE		Sweden	PCLI	446178.44094333774	15.27	62.011	Sweden	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SGP	SG		Singapore	PCLI	510.5031737010714	103.8	1.36666666667	Singapore	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SGP	SG		Singapore	PCLI	510.5031737010714	103.808	1.351	Singapore	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SHN	SH		Saint Helena	PCLI	366.6607260858252	-5.7	-15.95	St. Helena	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SHN	SH		Saint Helena	PCLI	366.6607260858252	-5.71	-15.953	St. Helena	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SVN	SI		Slovenia	PCLI	20327.278948233627	14.827	46.124	Slovenia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SVN	SI		Slovenia	PCLI	20327.278948233627	14.8166666667	46.1166666667	Slovenia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SJM	SJ		Svalbard	PCLI		18.374	78.83	Svalbard & Jan Mayen	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SVK	SK		Slovakia	PCLI	48457.788850943936	19.5	48.6666666667	Slovakia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SVK	SK		Slovakia	PCLI	48457.788850943936	19.491	48.707	Slovakia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLE	SL		Sierra Leone	PCLI	71611.71499421634	-11.5	8.5	Sierra Leone	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLE	SL		Sierra Leone	PCLI	71611.71499421634	-11.792	8.56	Sierra Leone	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SMR	SM			PCLI	60.31713094507217	12.4166666667	43.933333	San Marino	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SMR	SM			PCLI	60.31713094507217	12.46	43.942	San Marino	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SEN	SN		Senegal	PCLI	196224.29707317977	-14.881	15.013	Senegal	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SOM	SO		Federal Republic of Somalia	PCLI	471815.00342042226	49	10	Somalia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SOM	SO		Federal Republic of Somalia	PCLI	471815.00342042226	48.316	9.774	Somalia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SUR	SR		Suriname	PCLI	145123.53017072426	-55.912	4.127	Suriname	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SSD	SS		South Sudan	PCLI		30	8	South Sudan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+STP	ST		Sao Tome and Principe	PCLI	1037.1561366140731	7	1	Sao Tome & Principe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+STP	ST		Sao Tome and Principe	PCLI	1037.1561366140731	6.629	0.201	Sao Tome & Principe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLV	SV		El Salvador	PCLI	20539.229033657255	-88.866	13.736	El Salvador	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SLV	SV		El Salvador	PCLI	20539.229033657255	-88.9166666667	13.8333333333	El Salvador	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SXM	SX			PCLI	23.358516925027608	-63.06667	18.04167	Sint Maarten	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SYR	SY		Syria	PCLI	185939.04840221372	38.506	35.013	Syria	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+SWZ	SZ		Swaziland	PCLI	17111.84503911677	31.497	-26.562	Swaziland	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TCA	TC		Turks and Caicos Islands	PCLI	445.2174997052877	-71.5833333333	21.75	Turks & Caicos Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TCA	TC		Turks and Caicos Islands	PCLI	445.2174997052877	-71.95	21.902	Turks & Caicos Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TCD	TD		Chad	PCLI	1266282.335587437	18.665	15.361	Chad	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ATF	TF		Amsterdam and Saint Paul Islands	PCLI	7279.985796449041	77.5333333333	-37.8333333333	French Southern Territories	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ATF	TF		Kerguélen	PCLI	7279.985796449041	69.117	-49.302	French Southern Territories	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TGO	TG		Togo	PCLI	56863.47734125389	1.16666666667	8	Togo	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TGO	TG		Togo	PCLI	56863.47734125389	1.081	8.799	Togo	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+THA	TH		Thailand	PCLI	514453.67794878985	100.844	15.7	Thailand	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TJK	TJ		Tajikistan	PCLI	142238.25603156321	69.42	38.665	Tajikistan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TKL	TK		Tokelau	PCLI		-172	-9	Tokelau	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TKL	TK		Tokelau	PCLI		-171.853	-9.193	Tokelau	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TLS	TL		East Timor	PCLI	15082.235169431544	125.916666667	-8.83333333333	Timor-Leste	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TLS	TL		East Timor	PCLI	15082.235169431544	125.878	-8.822	Timor-Leste	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TKM	TM		Turkmenistan	PCLI	470850.3991076106	59.384	39.122	Turkmenistan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TUN	TN		Tunisia	PCLI	156611.6936003666	9.596	35.383	Tunisia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TON	TO		Tonga	PCLI	603.113108349627	-175.185	-21.202	Tonga	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TUR	TR		Turkey	PCLI	780079.652511871	35.179	39.061	Turkey	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TTO	TT		Trinidad and Tobago	PCLI	5122.926215130053	-61.253	10.468	Trinidad & Tobago	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TTO	TT		Trinidad and Tobago	PCLI	5122.926215130053	-61	11	Trinidad & Tobago	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TUV	TV		Tuvalu	PCLI	23.018500347682377	179.219	-8.514	Tuvalu	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TWN	TW		Taiwan	PCLI	36197.77371986479	120.946	23.754	Taiwan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TWN	TW		Taiwan	PCLI	36197.77371986479	121	23.5	Taiwan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+TZA	TZ		Tanzania	PCLI	941505.9871227486	34.823	-6.27	Tanzania	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UKR	UA		Ukraine	PCLI	571998.5759768161	31.388	49.016	Ukraine	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UGA	UG		Uganda	PCLI	241853.6301856624	32	1	Uganda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UGA	UG		Uganda	PCLI	241853.6301856624	32.386	1.28	Uganda	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UMI	UM		Johnston Atoll	PCLI	28.004552774807518	-169.516666667	16.75	United States Minor Outlying Islands (the)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UMI	UM		Jarvis Island	PCLI	28.004552774807518	-160.027	-0.385	United States Minor Outlying Islands (the)	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+USA	US		United States	PCLI	9464330.067774186	-97	38	United States	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+USA	US		United States	PCLI	9464330.067774186	-98.606	39.622	United States	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+URY	UY		Uruguay	PCLI	177345.12616579118	-56.012	-32.8	Uruguay	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+UZB	UZ		Uzbekistan	PCLI	447830.15943964483	63.17	41.75	Uzbekistan	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VAT	VA			PCLI	0.012203829894423484	12.451	41.904	Vatican City	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VAT	VA		Vatican City	PCLI	0.012203829894423484	12.45	41.9	Vatican City	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VCT	VC		Saint Vincent and the Grenadines	PCLI	367.72526305705827	-61.194	13.248	St. Vincent & Grenadines	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VCT	VC		Saint Vincent and the Grenadines	PCLI	367.72526305705827	-61.2	13.25	St. Vincent & Grenadines	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VEN	VE		Venezuela	PCLI	912684.3995537218	-66.166	7.125	Venezuela	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VGB	VG		British Virgin Islands	PCLI	144.94117607257522	-64.39	18.483	British Virgin Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VGB	VG		British Virgin Islands	PCLI	144.94117607257522	-64.5	18.5	British Virgin Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VIR	VI		United States Virgin Islands	PCLI	354.748452079206	-64.785	17.741	U.S. Virgin Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VIR	VI		United States Virgin Islands	PCLI	354.748452079206	-64.8333333333	18.3333333333	U.S. Virgin Islands	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VNM	VN		Vietnam	PCLI	328892.1170819263	105.314	21.491	Vietnam	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VNM	VN		Vietnam	PCLI	328892.1170819263	107.833333333	16.1666666667	Vietnam	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+VUT	VU		Vanuatu	PCLI	12296.604102737805	166.899	-15.376	Vanuatu	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+WLF	WF		Wallis and Futuna	PCLI	139.32915982165002	-178.131	-14.289	Wallis & Futuna	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+WLF	WF		Wallis and Futuna	PCLI	139.32915982165002	-176.2	-13.3	Wallis & Futuna	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+WSM	WS		Samoa	PCLI	2780.412472401772	-172.333333333	-13.5833333333	Samoa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+WSM	WS		Samoa	PCLI	2780.412472401772	-172.414	-13.652	Samoa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+YEM	YE		Yemen	PCLI	453075.75716205843	48	15	Yemen	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+YEM	YE		Yemen	PCLI	453075.75716205843	48.355	15.807	Yemen	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MYT	YT			PCLI		45.1666666667	-12.8333333333	Mayotte	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+MYT	YT			PCLI		45.155	-12.777	Mayotte	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ZAF	ZA		South Africa	PCLI	1219826.7283745739	23.121	-30.558	South Africa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ZAF	ZA		South Africa	PCLI	1219826.7283745739	24	-29	South Africa	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ZMB	ZM		Zambia	PCLI	751914.9431398275	26.32	-14.614	Zambia	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ZWE	ZW		Zimbabwe	PCLI	389337.4811096561	29.872	-19	Zimbabwe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ZWE	ZW		Zimbabwe	PCLI	389337.4811096561	30	-20	Zimbabwe	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner
+ANT				PCLI		-68.87	12.123	ANT	https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html	CoordinateCleaner

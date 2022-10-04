@@ -1,0 +1,245 @@
+iso3	iso2	gadm1	gbif_name	type	area_sqkm	decimal_longitude	decimal_latitude	source_locality_name	source_reference	source
+AND	AD		Andorra	PCLI	452.24793683157947	1.583	42.55	Andorra	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ARE	AE		United Arab Emirates	PCLI	71084.63633494375	54	24	United Arab Emirates	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AFG	AF		Afghanistan	PCLI	642181.6163942092	65	33	Afghanistan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ATG	AG		Antigua and Barbuda	PCLI	451.48018877323005	-61.8	17.05	Antigua and Barbuda	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AIA	AI		Anguilla	PCLI	80.67384596823143	-63.05	18.2167	Anguilla	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ALB	AL		Albania	PCLI	28335.84516398934	20	41	Albania	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ARM	AM		Armenia	PCLI	29588.31031852631	45	40	Armenia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AGO	AO		Angola	PCLI	1244654.313546171	18.5	-12.5	Angola	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ATA	AQ		Antarctica	PCLI	12358174.388790991	65.725	-83.843	Antarctica	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ARG	AR		Argentina	PCLI	2784305.9189470923	-64	-34	Argentina	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ASM	AS		American Samoa	PCLI	180.3056963678391	-170.5	-14.3167	American Samoa	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AUT	AT		Austria	PCLI	83993.196879589	13.3333	47.3333	Austria	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AUS	AU		Australia	PCLI	7691175.090399871	135	-25	Australia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ABW	AW		Aruba	PCLI	169.76642238220072	-69.9667	12.5	Aruba	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+AZE	AZ		Azerbaijan	PCLI	86249.80023303672	47.5	40.5	Azerbaijan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BIH	BA		Bosnia and Herzegovina	PCLI	51826.537863392885	17.8333	44.25	Bosnia and Herzegovina	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BRB	BB		Barbados	PCLI	444.2213241323988	-59.5333	13.1667	Barbados	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BGD	BD		Bangladesh	PCLI	136903.67805500666	90	24	Bangladesh	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BEL	BE		Belgium	PCLI	30669.83051166764	4	50.8333	Belgium	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BFA	BF		Burkina Faso	PCLI	272769.396656721	-2	13	Burkina Faso	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BGR	BG		Bulgaria	PCLI	112760.6938197593	25.25	42.666	Bulgaria	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BHR	BH		Bahrain	PCLI	584.9397795935516	50.5	26	Bahrain	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BDI	BI		Burundi	PCLI	27041.26629610865	30	-3.5	Burundi	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BEN	BJ		Benin	PCLI	116113.30895446317	2.25	9.5	Benin	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BLM	BL		Saint-Barthélemy	PCLI	24.42326117469788	-62.833	17.9	Saint Barthélemy	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BMU	BM		Bermuda	PCLI	62.30216571923184	-64.75	32.3333	Bermuda	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BRN	BN		Brunei	PCLI	5716.69325911628	114.6667	4.5	Brunei Darussalam	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BOL	BO		Bolivia	PCLI	1086810.645734216	-65	-17	Bolivia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BRA	BR		Brazil	PCLI	8472669.678377096	-55	-10	Brazil	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BHS	BS		Bahamas	PCLI	12592.697860504082	-76	24	Bahamas	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BTN	BT		Bhutan	PCLI	40365.36421684413	90.5	27.5	Bhutan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BVT	BV		Bouvet	PCLI		3.4	-54.4333	Bouvet Island	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BWA	BW		Botswana	PCLI	579029.2005460369	24	-22	Botswana	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BLR	BY		Belarus	PCLI	207499.13339444195	28	53	Belarus	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+BLZ	BZ		Belize	PCLI	22299.42219573088	-88.75	17.25	Belize	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CAN	CA		Canada	PCLI	9945527.764985085	-96	60	Canada	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CCK	CC		Cocos Islands	PCLI		96.8333	-12	Cocos Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+COD	CD		Democratic Republic of the Congo	PCLI	2325240.4236477143	25	-0.0167	Democratic Republic of the Congo	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CAF	CF		Central African Republic	PCLI	617984.2399580368	21	7	Central African Republic	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+COG	CG		Republic of the Congo	PCLI	344888.6767348834	15	-1	Congo	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CHE	CH		Switzerland	PCLI	41435.79877039148	9.5333	47.1667	Liechtenstein	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CHE	CH		Switzerland	PCLI	41435.79877039148	8	47	Switzerland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CIV	CI		Ivory Coast	PCLI	320677.15691769694	-5	8	Côte d'Ivoire	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+COK	CK		Cook Islands	PCLI	191.1318923077924	-161.583	-16.083	Cook Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CHL	CL		Chile	PCLI	736592.7499003441	-71	-30	Chile	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CMR	CM		Cameroon	PCLI	464319.27834895253	12	6	Cameroon	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CHN	CN		China	PCLI	9374591.216965672	105	35	China	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CHN	CN		China	PCLI	9374591.216965672	113.55	22.1667	Macau	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+COL	CO		Colombia	PCLI	1135117.8781117965	-72	4	Colombia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CRI	CR		Costa Rica	PCLI	51144.33533147565	-84	10	Costa Rica	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CUB	CU		Cuba	PCLI	109929.18207741623	-80	21.5	Cuba	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CPV	CV		Cape Verde	PCLI	3883.1427075028528	-24	16	Cape Verde	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CUW	CW		Curaçao	PCLI	463.2502195446062	-69	12.166	Curacao	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CXR	CX		Christmas Island	PCLI		105.6667	-10.5	Christmas Island	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CYP	CY		Cyprus	PCLI	5395.020997606832	33	35	Cyprus	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CZE	CZ		Czech Republic	PCLI	78758.85950496417	15	49.75	Czech Republic	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DEU	DE		Germany	PCLI	357673.8176546789	10.5	51.5	Germany	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DJI	DJ		Djibouti	PCLI	21847.61409875067	42.5	11.5	Djibouti	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DNK	DK		Denmark	PCLI	42696.43397568578	10	56	Denmark	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DMA	DM		Dominica	PCLI	730.3125711240883	-61.3333	15.5	Dominica	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DOM	DO		Dominican Republic	PCLI	48439.790109810456	-70.6667	19	Dominican Republic	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+DZA	DZ		Algeria	PCLI	2308857.817784158	3	28	Algeria	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ECU	EC		Ecuador	PCLI	255014.21488574092	-77.5	-2	Ecuador	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+EST	EE		Estonia	PCLI	45819.03919607016	26	59	Estonia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+EGY	EG		Egypt	PCLI	1001078.5472864376	30	27	Egypt	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ERI	ER		Eritrea	PCLI	122537.73880057433	39	15	Eritrea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ESP	ES		Spain	PCLI	506884.11511566624	-5.35	36.1333	Gibraltar	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ESP	ES		Spain	PCLI	506884.11511566624	-4	40	Spain	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ETH	ET		Ethiopia	PCLI	1127375.979708977	39	8	Ethiopia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FIN	FI		Finland	PCLI	333059.05525200185	26	64	Finland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FJI	FJ		Fiji	PCLI	18930.08333615292	178	-18	Fiji	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FSM	FM		Micronesia	PCLI	633.8453645261274	152	5	Federated States of Micronesia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FRO	FO		Faeroe	PCLI	1328.521588833648	-7	62	Faeroe Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FRA	FR		France	PCLI	636758.5293095022	7.4167	43.7333	Monaco	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+FRA	FR		France	PCLI	636758.5293095022	2	46	France	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GAB	GA		Gabon	PCLI	259968.48468844336	11.75	-1	Gabon	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GRD	GD		Grenada	PCLI	347.26326182813665	-61.6667	12.1167	Grenada	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GEO	GE		Georgia	PCLI	69570.72579287778	43.5	42	Georgia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GUF	GF		French Guiana	PCLI		-53	4	French Guiana	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GGY	GG		Guernsey	PCLI	73.98167691376233	-2.333	49.5833	Guernsey	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GHA	GH		Ghana	PCLI	238668.6769644392	-2	8	Ghana	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GRL	GL		Greenland	PCLI	2154380.7913027797	-40	72	Greenland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GMB	GM		Gambia	PCLI	10500.897039039672	-15.5	13.5	The Gambia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GIN	GN		Guinea	PCLI	244301.98009354423	-10	11	Guinea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GLP	GP		Guadeloupe	PCLI		-61.5833	16.25	Guadeloupe	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GNQ	GQ		Equatorial Guinea	PCLI	26671.690857533435	10	2	Equatorial Guinea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GRC	GR		Greece	PCLI	131353.43567330888	22	39	Greece	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GTM	GT		Guatemala	PCLI	108811.24580904085	-90.25	15.5	Guatemala	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GUM	GU		Guam	PCLI	564.2033872157984	144.8333	13.4667	Guam	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GNB	GW		Guinea-Bissau	PCLI	32829.628073843596	-15	12	Guinea-Bissau	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+GUY	GY		Guyana	PCLI	211213.69761780623	-59	5	Guyana	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HKG	HK		Hong Kong	PCLI	1036.2047445663206	114.1667	22.25	Hong Kong	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HMD	HM		Heard and McDonald Islands	PCLI	394.8631323674507	73	-53	Heard Island and McDonald Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HND	HN		Honduras	PCLI	112236.7314052547	-86.5	15	Honduras	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HRV	HR		Croatia	PCLI	55077.44290253139	15.5	45.1667	Croatia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HTI	HT		Haiti	PCLI	26891.569007692586	-72.4167	19	Haiti	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+HUN	HU		Hungary	PCLI	93200.95199920455	20	47	Hungary	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IDN	ID		Indonesia	PCLI	1879827.3748788624	120	-5	Indonesia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IRL	IE		Ireland	PCLI	69445.01466838783	-8	53	Ireland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ISR	IL		Israel	PCLI	21900.93235056281	34.75	31.5	Israel	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IMN	IM		Isle of Man	PCLI	574.8173931731901	-4.5	54	United Kingdom	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IMN	IM		Isle of Man	PCLI	574.8173931731901	-4.5	54.25	Isle of Man	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IND	IN		India	PCLI	3151452.491961143	77	20	India	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IRQ	IQ		Iraq	PCLI	437366.9830915558	44	33	Iraq	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+IRN	IR		Iran	PCLI	1622510.1866869396	53	32	Iran	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ISL	IS		Iceland	PCLI	102390.07076428036	-18	65	Iceland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ITA	IT		Italy	PCLI	301185.0685934983	12.4167	43.9333	San Marino	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ITA	IT		Italy	PCLI	301185.0685934983	12.453	41.903	Holy See	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ITA	IT		Italy	PCLI	301185.0685934983	12.8333	42.8333	Italy	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+JEY	JE		Jersey	PCLI	119.05032234631538	-2.1167	49.2167	Jersey	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+JAM	JM		Jamaica	PCLI	11032.896473883871	-77.5	18.25	Jamaica	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+JOR	JO		Jordan	PCLI	88863.04758601561	36	31	Jordan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+JPN	JP		Japan	PCLI	373508.03418055526	138	36	Japan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KEN	KE		Kenya	PCLI	585702.5843625352	38	1	Kenya	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KGZ	KG		Kyrgyzstan	PCLI	198990.45591103577	75	41	Kyrgyzstan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KHM	KH		Cambodia	PCLI	181059.6108326335	105	13	Cambodia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KIR	KI		Phoenix Group	PCLI	949.8634513214656	-170	-5	Kiribati	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+COM	KM		Comores	PCLI	1672.2269205270734	44.25	-12.1667	Comoros	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KNA	KN		Saint Kitts and Nevis	PCLI	264.1305694796238	-62.75	17.3333	Saint Kitts and Nevis	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PRK	KP		North Korea	PCLI	122379.4003676106	127	40	North Korea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KOR	KR		South Korea	PCLI	98544.42882167482	127.5	37	South Korea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KWT	KW		Kuwait	PCLI	17474.020396605734	47.75	29.5	Kuwait	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+CYM	KY		Cayman Islands	PCLI	309.19646687841606	-80.6667	19.5	Cayman Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+KAZ	KZ		Kazakhstan	PCLI	2714263.3685441692	68	48	Kazakhstan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LAO	LA		Laos	PCLI	228113.97485040524	106	16	Viet Nam	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LAO	LA		Laos	PCLI	228113.97485040524	105	18	Laos	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LBN	LB		Lebanon	PCLI	10000.011414743243	35.8333	33.8333	Lebanon	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LCA	LC		Saint Lucia	PCLI	605.1306728761933	-60.9667	13.8833	Saint Lucia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LKA	LK		Sri Lanka	PCLI	66291.18329842921	81	7	Sri Lanka	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LBR	LR		Liberia	PCLI	95298.1539476318	-9.5	6.5	Liberia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LSO	LS		Lesotho	PCLI	30106.51807227543	28.25	-29.5	Lesotho	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LTU	LT		Lithuania	PCLI	64939.29751757669	24	56	Lithuania	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LUX	LU		Grand Duchy of Luxembourg	PCLI	2608.4689301204567	6.1667	49.75	Luxembourg	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LVA	LV		Latvia	PCLI	64576.403598551624	25	57	Latvia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+LBY	LY		Libya	PCLI	1623760.9003579712	17	25	Libya	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MAR	MA		Morocco	PCLI	591745.2469115739	-5	32	Morocco	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MDA	MD		Moldova	PCLI	33206.47762337327	28.583	47.25	Moldova	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MNE	ME		Montenegro	PCLI	13727.499653550689	19.3333	42.5	Montenegro	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MDG	MG		Madagascar	PCLI	592983.8842587469	47	-20	Madagascar	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MHL	MH		Marshall Islands	PCLI	164.8223820920804	167	10	Marshall Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MKD	MK		Macedonia	PCLI	25385.26936775436	21.75	41.666	North Macedonia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MLI	ML		Mali	PCLI	1252723.65729053	-4	17	Mali	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MMR	MM		Myanmar	PCLI	663159.3007064887	98	22	Myanmar	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MNG	MN		Mongolia	PCLI	1564648.9906362689	105	46	Mongolia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MNP	MP		Northern Mariana Islands	PCLI	579.3044095829808	145.755	15.213	Northern Mariana Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MTQ	MQ		Martinique	PCLI		-61	14.6667	Martinique	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MRT	MR		Mauritania	PCLI	1036391.8235232012	-12	20	Mauritania	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MSR	MS		Montserrat	PCLI	99.5971440362947	-62.2	16.75	Montserrat	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MLT	MT		Malta	PCLI	325.6880511236057	14.4167	35.9167	Malta	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MUS	MU		Republic of Mauritius	PCLI	49.06066588711554	57.5833	-20.3	Mauritius	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MDV	MV		Maldives	PCLI	108.74231101540428	73	3.2	Maldives	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MWI	MW		Malawi	PCLI	119397.76652705295	34	-13.5	Malawi	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MEX	MX		Mexico	PCLI	1957847.0583796725	-102	23	Mexico	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MYS	MY		Malaysia	PCLI	327884.8886786309	112.5	2.5	Malaysia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+MOZ	MZ		Mozambique	PCLI	788448.5360396466	35	-18.25	Mozambique	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NAM	NA		Namibia	PCLI		17	-22	Namibia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NCL	NC		New Caledonia	PCLI	18841.03498343384	165.5	-21.5	New Caledonia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NER	NE		Niger	PCLI	1181300.8923377672	8	16	Niger	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NFK	NF		Norfolk Island	PCLI	41.14649736085224	167.95	-29.033333	Norfolk Island	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NGA	NG		Nigeria	PCLI	907501.0844204949	8	10	Nigeria	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NIC	NI		Nicaragua	PCLI	128691.43282995676	-85	13	Nicaragua	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NLD	NL		Netherlands	PCLI	37397.73062549219	5.75	52.5	Netherlands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NOR	NO		Norway	PCLI	382066.5602031595	10	62	Norway	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NPL	NP		Nepal	PCLI	147105.48971549707	84	28	Nepal	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NRU	NR		Nauru	PCLI	28.76692206009218	166.9167	-0.5333	Nauru	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NIU	NU		Niue	PCLI	220.5712371115818	-169.8667	-19.0333	Niue	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+NZL	NZ		New Zealand	PCLI	268494.5791221025	174	-42	New Zealand	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+OMN	OM		Oman	PCLI	311213.4541656622	57	21	Oman	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PAN	PA		Panama	PCLI	74530.3083392666	-80	9	Panama	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PER	PE		Peru	PCLI	1289866.4010943884	-76	-10	Peru	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PYF	PF		French Polynesia	PCLI	3336.547746896668	-140	-15	French Polynesia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PNG	PG		Papua New Guinea	PCLI		147	-6	Papua New Guinea	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PHL	PH		Philippines	PCLI	293237.4880448443	122	13	Philippines	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PAK	PK		Pakistan	PCLI	872939.2882954803	70	30	Pakistan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+POL	PL		Poland	PCLI	313430.77287693263	20	52	Poland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SPM	PM		Saint-Pierre and Miquelon	PCLI	242.74984975668715	-56.3333	46.8333	Saint Pierre and Miquelon	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PCN	PN		Pitcairn	PCLI	42.56975589035616	-130.1	-25.0667	Pitcairn Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PRT	PT		Portugal	PCLI		-8	39.5	Portugal	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PLW	PW		Palau	PCLI	491.9321840072223	134	6	Palau	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+PRY	PY		Paraguay	PCLI	399901.0547034382	-58	-23	Paraguay	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+QAT	QA		Qatar	PCLI	11150.106992136532	51.25	25.5	Qatar	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+REU	RE		Réunion	PCLI		55.6	-21.1	Reunion	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ROU	RO		Romania	PCLI	236376.6560898297	25	46	Romania	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SRB	RS		Serbia	PCLI	77573.60378468432	20.833	44.166	Serbia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+RUS	RU		Russia	PCLI	16980199.62053948	47	60	Russia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+RWA	RW		Rwanda	PCLI	25305.054919012287	30	-2	Rwanda	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SAU	SA		Saudi Arabia	PCLI	1921725.381316085	45	25	Saudi Arabia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SLB	SB		Solomon Islands	PCLI	27198.794740282905	159	-8	Solomon Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SYC	SC		Seychelles	PCLI	435.6674565265611	55.6667	-4.5833	Seychelles	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SDN	SD		Sudan	PCLI	1857637.0669359493	30	16	Sudan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SWE	SE		Sweden	PCLI	446178.44094333774	15	62	Sweden	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SGP	SG		Singapore	PCLI	510.5031737010714	103.8	1.3667	Singapore	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SHN	SH		Saint Helena	PCLI	366.6607260858252	-5.7	-15.95	Saint Helena, Ascension and Tristan da Cunha	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SVN	SI		Slovenia	PCLI	20327.278948233627	15	46.083	Slovenia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SJM	SJ		Svalbard	PCLI		20	78	Svalbard	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SVK	SK		Slovakia	PCLI	48457.788850943936	19.5	48.6667	Slovakia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SLE	SL		Sierra Leone	PCLI	71611.71499421634	-11.5	8.5	Sierra Leone	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SEN	SN		Senegal	PCLI	196224.29707317977	-14	14	Senegal	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SOM	SO		Federal Republic of Somalia	PCLI	471815.00342042226	48	6	Somalia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SUR	SR		Suriname	PCLI	145123.53017072426	-56	4	Suriname	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SSD	SS		South Sudan	PCLI		30	7.5	South Sudan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+STP	ST		Sao Tome and Principe	PCLI	1037.1561366140731	7	1	Sao Tome and Principe	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SLV	SV		El Salvador	PCLI	20539.229033657255	-88.9167	13.8333	El Salvador	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SYR	SY		Syria	PCLI	185939.04840221372	38	35	Syria	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+SWZ	SZ		Swaziland	PCLI	17111.84503911677	31.5	-26.5	Swaziland	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TCA	TC		Turks and Caicos Islands	PCLI	445.2174997052877	-71.5833	21.7333	Turks and Caicos Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TCD	TD		Chad	PCLI	1266282.335587437	19	15	Chad	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ATF	TF		Bassas da India	PCLI	7279.985796449041	39.7	-21.4167	Bassas da India	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TGO	TG		Togo	PCLI	56863.47734125389	1.1667	8	Togo	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+THA	TH		Thailand	PCLI	514453.67794878985	100	15	Thailand	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TJK	TJ		Tajikistan	PCLI	142238.25603156321	71	39	Tajikistan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TKL	TK		Tokelau	PCLI		-171.75	-9	Tokelau	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TLS	TL		East Timor	PCLI	15082.235169431544	126	-8.5833	Timor-Leste	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TKM	TM		Turkmenistan	PCLI	470850.3991076106	60	40	Turkmenistan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TUN	TN		Tunisia	PCLI	156611.6936003666	9	34	Tunisia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TON	TO		Tonga	PCLI	603.113108349627	-175	-20	Tonga	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TUR	TR		Turkey	PCLI	780079.652511871	35	39	Turkey	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TTO	TT		Trinidad and Tobago	PCLI	5122.926215130053	-61	11	Trinidad and Tobago	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TUV	TV		Tuvalu	PCLI	23.018500347682377	178	-8	Tuvalu	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TWN	TW		Taiwan	PCLI	36197.77371986479	121	24	Taiwan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+TZA	TZ		Tanzania	PCLI	941505.9871227486	35	-6	Tanzania	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+UKR	UA		Ukraine	PCLI	571998.5759768161	32	49	Ukraine	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+UGA	UG		Uganda	PCLI	241853.6301856624	33	2	Uganda	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+USA	US		United States	PCLI	9464330.067774186	-98	38	United States	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+URY	UY		Uruguay	PCLI	177345.12616579118	-56	-33	Uruguay	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+UZB	UZ		Uzbekistan	PCLI	447830.1594396448	64	41	Uzbekistan	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+VCT	VC		Saint Vincent and the Grenadines	PCLI	367.7252630570582	-61.2	13.0833	Saint Vincent and the Grenadines	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+VEN	VE		Venezuela	PCLI	912684.3995537218	-66	8	Venezuela	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+VGB	VG		British Virgin Islands	PCLI	144.94117607257522	-64.5	18.5	British Virgin Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+VUT	VU		Vanuatu	PCLI	12296.604102737803	167	-16	Vanuatu	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+WLF	WF		Wallis and Futuna	PCLI	139.32915982165002	-176.2	-13.3	Wallis and Futuna Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+WSM	WS		Samoa	PCLI	2780.412472401772	-172.133333	-13.8	Samoa	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+YEM	YE		Yemen	PCLI	453075.7571620584	47.5	15.5	Yemen	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ZAF	ZA		South Africa	PCLI	1219826.728374574	26	-30	South Africa	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ZMB	ZM		Zambia	PCLI	751914.9431398275	30	-15	Zambia	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+ZWE	ZW		Zimbabwe	PCLI	389337.4811096561	29	-19	Zimbabwe	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Mayotte	PCLI	822713.0501869222	45.1667	-12.8333	Mayotte	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Falkland Islands	PCLI	822713.0501869222	-59	-51.75	Falkland Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			South Georgia and the South Sandwich Islands	PCLI	822713.0501869222	-33	-56	South Georgia and South Sandwich Islands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Palestine	PCLI	822713.0501869222	35.25	32	West Bank	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Palestine	PCLI	822713.0501869222	34.3333	31.4167	Gaza Strip	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Chagos Archipelago	PCLI	822713.0501869222	72.0167	-7	British Indian Ocean Territory	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+				PCLI	822713.0501869222	67	-43	French Southern and Antarctic Lands	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
+			Palestine	PCLI	822713.0501869222	35.20329	31.92157	State of Palestine	https://www.getty.edu/research/tools/vocabularies/tgn/	TGN
