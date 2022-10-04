@@ -30,17 +30,17 @@ The main data file is `centroids.tsv`.
 
 ## Data dictionary 
 
-**iso3** : ISO 3166-1 alpha-3
-**iso2** : ISO 3166-1 alpha-2 
-**gadm1** : GADM level one code
-**gbif_name** : GBIF standardized name of locality/iso place
-**type** : one of "PCLI" (places with an iso-code),"ADM1" (provinces,states,gadm1) 
-**area_sqkm** : The approximate area of the centroid's polygon. Do not take this too literally.
-**decimal_longitude** : longitude of centroid (WGS84)
-**decimal_latitude** : latitude of centroid (WGS84) 
-**source_locality_name** : the name given by the source
-**source_reference** : link to the source
-**source** : CoordinateCleaner, geoLocate, TGN, GeoNames, Australia
+**iso3** : ISO 3166-1 alpha-3 <br>
+**iso2** : ISO 3166-1 alpha-2 <br>
+**gadm1** : GADM level one code <br>
+**gbif_name** : GBIF standardized name of locality/iso place <br>
+**type** : one of "PCLI" (places with an iso-code),"ADM1" (provinces,states,gadm1) <br>
+**area_sqkm** : The approximate area of the centroid's polygon. Do not take this too literally. <br>
+**decimal_longitude** : longitude of centroid (WGS84) <br>
+**decimal_latitude** : latitude of centroid (WGS84) <br>
+**source_locality_name** : the name given by the source <br>
+**source_reference** : link to the source <br>
+**source** : CoordinateCleaner, geoLocate, TGN, GeoNames, Australia <br>
 
 ## Statistics v0.0.1
 
