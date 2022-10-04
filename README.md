@@ -8,8 +8,12 @@ The main data file is `centroids.tsv`.
 
 ## Current Sources 
 
-[CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) [x] iso2 places [x] ADM1
-[geoLocate](https://www.geo-locate.org/) - [x] iso2 places - [ ] ADM1
+[CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) 
+
+- [x] iso2 places 
+- [x] ADM1
+
+[geoLocate](https://www.geo-locate.org/) [x] iso2 places [ ] ADM1
 [Getty Thesaurus of Geographic Names (TGN)]  (https://www.getty.edu/research/tools/vocabularies/tgn/) - [x] iso2 places - [ ] ADM1
 [geoNames](https://www.geonames.org/) - [x] iso2 places
 - [x] ADM1
