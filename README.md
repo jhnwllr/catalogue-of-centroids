@@ -28,7 +28,7 @@ The main data file is `centroids.tsv`.
 1. **PCLI** (places with an iso-code)
 2. **ADM1** (provinces,states,gadm1)
 
-## Data dictionary 
+## centroids.tsv data dictionary 
 
 **iso3** : ISO 3166-1 alpha-3 <br>
 **iso2** : ISO 3166-1 alpha-2 <br>
