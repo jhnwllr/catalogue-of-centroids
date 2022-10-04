@@ -8,8 +8,7 @@ The main data file is `centroids.tsv`.
 
 ## Current Sources 
 
-[CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) 
-
+[CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner)
 - [x] iso2 places 
 - [x] ADM1
 
