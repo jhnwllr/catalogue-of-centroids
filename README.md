@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/jhnwllr/catalogue-of-centroids/master/point_map.jpg)
+
 **Catalogue of Centroids** aims to aggregate centroids from various sources for use in labeling/flagging geo-referenced biodiversity occurrence records.
 
 The main idea is to gather from sources most often used during retrospective geo-referencing of museum collections.
