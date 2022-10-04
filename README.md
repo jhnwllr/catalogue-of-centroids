@@ -9,7 +9,7 @@ The main data file is `centroids.tsv`.
 ## Current Sources 
 
 * [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) 
-- [x] iso2 places 
+ <small> - [x] iso2 places  </small>
 - [x] ADM1
 * [geoLocate](https://www.geo-locate.org/) 
 - [x] iso2 places 
