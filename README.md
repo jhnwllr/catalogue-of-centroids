@@ -6,23 +6,6 @@ The main idea is to gather from sources most often used during retrospective geo
 
 The main data file is `centroids.tsv`. 
 
-## Current Sources 
-
-* [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) 
-- [x] iso2 places
-- [x] ADM1
-* [geoLocate](https://www.geo-locate.org/) 
-- [x] iso2 places 
-- [ ] ADM1
-* [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/) (TGN)
-- [x] iso2 places 
-- [ ] ADM1
-* [geoNames](https://www.geonames.org/) 
-- [x] iso2 places
-- [x] ADM1
-* [Australia](https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/centre-of-australia-states-territoriess) 
-- [x] iso2 place
-
 ## Types of centroids  
 
 1. **PCLI** (places with an iso-code)
@@ -41,6 +24,23 @@ The main data file is `centroids.tsv`.
 **source_locality_name** : the name given by the source <br>
 **source_reference** : link to the source <br>
 **source** : CoordinateCleaner, geoLocate, TGN, GeoNames, Australia <br>
+
+## Current Sources 
+
+* [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) 
+- [x] iso2 places
+- [x] ADM1
+* [geoLocate](https://www.geo-locate.org/) 
+- [x] iso2 places 
+- [ ] ADM1
+* [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/) (TGN)
+- [x] iso2 places 
+- [ ] ADM1
+* [geoNames](https://www.geonames.org/) 
+- [x] iso2 places
+- [x] ADM1
+* [Australia](https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/centre-of-australia-states-territoriess) 
+- [x] iso2 place
 
 ## Statistics v0.0.1
 
