@@ -14,7 +14,7 @@ The main data file is `centroids.tsv`.
 * [geoLocate](https://www.geo-locate.org/) 
 - [x] iso2 places 
 - [ ] ADM1
-* [Getty Thesaurus of Geographic Names]  (https://www.getty.edu/research/tools/vocabularies/tgn/) (TGN)
+* [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/) (TGN)
 - [x] iso2 places 
 - [ ] ADM1
 * [geoNames](https://www.geonames.org/) 
