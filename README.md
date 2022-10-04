@@ -6,19 +6,19 @@ The main data file is `centroids.tsv`.
 
 ## Current Sources 
 
-1. [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner)
+[CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner)
 - [x] iso2 places 
 - [x] ADM1
-2. [geoLocate](https://www.geo-locate.org/)
- - [x] iso2 places
- - [ ] ADM1
-3. [Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/)
- - [x] iso2 places
- - [ ] ADM1
-4. [geoNames](https://www.geonames.org/)
- - [x] iso2 places
- - [x] ADM1
-5. [Australia](https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/centre-of-australia-states-territoriess)
+[geoLocate](https://www.geo-locate.org/)
+- [x] iso2 places
+- [ ] ADM1
+[Getty Thesaurus of Geographic Names (TGN)](https://www.getty.edu/research/tools/vocabularies/tgn/)
+- [x] iso2 places
+- [ ] ADM1
+[geoNames](https://www.geonames.org/)
+- [x] iso2 places
+- [x] ADM1
+[Australia](https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/centre-of-australia-states-territoriess)
 - [x] iso2 place
 
 ## Types of centroids  
