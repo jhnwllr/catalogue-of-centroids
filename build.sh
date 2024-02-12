@@ -11,8 +11,8 @@
 # Rscript.exe --vanilla sources/geoLocate/extraction/extraction_PCLI.R
 
 
-# Rscript.exe --vanilla R/combine.R
-Rscript.exe --vanilla R/stats.R
+Rscript.exe --vanilla R/combine.R
+# Rscript.exe --vanilla R/stats.R
 
 
 

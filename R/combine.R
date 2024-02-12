@@ -14,5 +14,15 @@ bind_rows() %>%
 glimpse() %>% 
 readr::write_tsv("centroids.tsv",na="")
 
+readr::read_tsv("centroids.tsv") %>%  
+filter(type=="ADM1") %>% 
+glimpse() %>% 
+readr::write_tsv("ADM1.tsv",na="")
+
+readr::read_tsv("centroids.tsv") %>%  
+filter(type=="PCLI") %>% 
+glimpse() %>% 
+readr::write_tsv("PCLI.tsv",na="")
+
 quit(save="no")
 
